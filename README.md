@@ -43,20 +43,4 @@ Target women (30–49 yrs) in Maharashtra, Karnataka, and Uttar Pradesh via ads/
 - Excel Pivot Tables & Charts
 - Slicers and Interactive Dashboard Elements
 
----
 
-## 🚀 **How to Use**
-1. Download `Store Data Analysis.xlsx`.
-2. Open in **Excel Desktop** or **Excel Online**.
-3. Use slicers and charts to explore the data interactively.
-4. Apply insights to plan marketing campaigns and sales strategies.
-
----
-
-## 📣 **Connect**
-This project is also shared on [LinkedIn](#) — feel free to connect and share your feedback!
-
----
-
-**Author:** [Your Name]  
-**LinkedIn:** [Your LinkedIn URL]  
